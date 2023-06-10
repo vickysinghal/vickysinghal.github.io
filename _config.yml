@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Deepak Ranjan Nayak"
   avatar           : "profile.png"
-  bio              : "Deepak Ranjan Nayak currently works at the Department of CSE, Malaviya National Institute of Technology Jaipur, India. Prior to that, he worked at Department of CSE, SVNIT Surat and IIITDM, Kancheepuram, India. Deepak does research in Medical Image Analysis, Machine Learning, Artificial Neural Network and Computer Vision. His current project is 'analysis and classification of medical images using advanced machine learning approaches."
+  bio              : "Department of Computer Science and Engineering, MNIT Jaipur"
   location         : "Jaipur, Rajasthan, India"
-  employer         : "MNIT Jaipur"
+  employer         : ""
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Nayak+DR"
   googlescholar    : "https://scholar.google.co.in/citations?user=ciWMFiAAAAAJ&hl=en"
   email            : "drnayak.cse@mnit.ac.in"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
