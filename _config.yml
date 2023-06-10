@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : " "
+title_separator          : " "
+name                     : &name "Deepak R. Nayak"
+description              : &description "Assistant Professor at Department of CSE, MNIT Jaipur, India. Before joining MNIT, I worked as an Assistant Professor at the Department of Computer Engineering, S. V. National Institute of Technology, Surat, India and a Post-Doctoral Fellow at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, Chennai. I  received my Ph.D. degree in Computer Science and Engineering from National Institute of Technology Rourkela, India. My current research interests include medical image analysis and classification, machine learning, deep learning, pattern recognition, and computer vision. Currently, I am executing one research project funded by SERB, DST, Govt of India. I serve as an Editorial Board member of International Journal of Imaging Systems and Technology, Wiley."
+url                      : https://vickysinghal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "vickysinghal/vickysinghal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Deepak Ranjan Nayak"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Deepak Ranjan Nayak currently works at the Department of CSE, Malaviya National Institute of Technology Jaipur, India. Prior to that, he worked at Department of CSE, SVNIT Surat and IIITDM, Kancheepuram, India. Deepak does research in Medical Image Analysis, Machine Learning, Artificial Neural Network and Computer Vision. His current project is 'analysis and classification of medical images using advanced machine learning approaches."
+  location         : "Jaipur, Rajasthan, India"
+  employer         : "MNIT Jaipur"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Nayak+DR"
+  googlescholar    : "https://scholar.google.co.in/citations?user=ciWMFiAAAAAJ&hl=en"
+  email            : "drnayak.cse@mnit.ac.in"
+  researchgate     : "https://www.researchgate.net/profile/Deepak-Nayak"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "deepakrnayak"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/dr-deepak-ranjan-nayak-3a62a53b/"
+  orcid            : "https://orcid.org/0000-0002-8929-5778"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
