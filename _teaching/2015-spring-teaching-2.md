@@ -3,7 +3,7 @@ title: "Under-Graduate (UG) Level"
 collection: teaching
 type: "Coursework"
 venue: "Department of CSE, MNIT"
-date: 2020 - Present
+date: 2020-01-01
 location: "Jaipur, India"
 ---
 
