@@ -84,7 +84,7 @@ author:
   avatar           : "mnitjas341.jpg"
   bio              : "Department of Computer Science and Engineering, MNIT Jaipur"
   location         : "Jaipur, Rajasthan, India"
-  employer         : ""
+  employer         : #""
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Nayak+DR"
   googlescholar    : "https://scholar.google.co.in/citations?user=ciWMFiAAAAAJ&hl=en"
   email            : "drnayak.cse@mnit.ac.in"
