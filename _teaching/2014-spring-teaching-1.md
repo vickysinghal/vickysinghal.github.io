@@ -3,7 +3,7 @@ title: "Post-Graduate (PG) Level"
 collection: teaching
 type: "coursework"
 venue: "Department of CSE, MNIT Jaipur"
-date: 2020 - present
+date: 2020-01-01
 location: "Jaipur, India"
 ---
 
