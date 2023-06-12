@@ -12,14 +12,12 @@ redirect_from:
 
 Awards/Recognitions
 ======
-<p align="justify">
 1. Received International Travel Grant from SERB, DST, Govt. of India as a young scientist to present a paper at TENCON-2017 conference held in Penang, Malaysia
 1. Received best paper award in 3rd International Conference on Advance Computing Networking and Informatics (ICACNI 2015), 2015, Bhubaneswar, India
 1. Outstanding Reviewer Award by Computers and Electrical Engineering Journal, Elsevier for the year 2017
 1. Received MHRD scholarship from July 2014 to December 2018 for pursuing PhD degree at NIT Rourkela
 1. Received AICTE PG scholarship from 2011 to 2013 for pursuing M.Tech degree at CET Bhubaneswar 
 1. Qualified GATE (CS/IT) in 2011 and 2012
-</p>
 
 For more info
 ------
