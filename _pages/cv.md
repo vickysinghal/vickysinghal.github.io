@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-<p align="justify">
+
 * B.Tech. in Computer Science, Biju Patnaik University of Technology, Odisha, 2011
 ------
 * M.Tech. in Computer Science and Engineering, CET Bhuvneshwar, India (Govt. Autonomus) 2013
@@ -23,7 +23,6 @@ Thesis Supervisor: Prof. Prashanta Kumar Patra
 ------
 Thesis Title:  Towards Designing Improved Pathological Brain Detection System using Machine Learning Approaches
 Thesis Supervisor: Prof. Ratnakar Dash and Prof. Banshidhar Majhi
-</p>
 
 Work experience
 ======
