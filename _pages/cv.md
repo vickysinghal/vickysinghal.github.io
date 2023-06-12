@@ -11,9 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<p align="justify">
+* B.Tech. in Computer Science, Biju Patnaik University of Technology, Odisha, 2011
+------
+* M.Tech. in Computer Science and Engineering, CET Bhuvneshwar, India (Govt. Autonomus) 2013
+------
+Thesis Title: An Edge Preserving Impulse Noise Filter based on Cellular Automata
+Thesis Supervisor: Prof. Prashanta Kumar Patra
+
+* Ph.D in Computer Science and Engineering, NIT Rourkela, 2019
+------
+Thesis Title:  Towards Designing Improved Pathological Brain Detection System using Machine Learning Approaches
+Thesis Supervisor: Prof. Ratnakar Dash and Prof. Banshidhar Majhi
+</p>
 
 Work experience
 ======
